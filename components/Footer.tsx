@@ -5,10 +5,10 @@ const Footer = () => {
   return (
     <div>
 
-      <footer className="bottom-0 border-t !w-full py-5 my-9 justify-between flex items-center">
+      <footer className="bottom-0 border-t h-5 !w-full my-9 justify-between flex items-center">
 
         <span className="text-gray-700 dark:text-stone-300 font-light text-sm px-10 py-3 flex justify-center items-center">
-          {new Date().getFullYear()} © EduVault 
+          {new Date().getFullYear()} © EarnStake 
         </span>
         <div className=" flex items-center gap-2 px-10 py-3">
           <Link href="https://x.com/_vivekjaiswal18">

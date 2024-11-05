@@ -40,6 +40,24 @@
     #00000080
   );
 
+  .cantora-one-regular {
+    font-family: "Cantora One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+
+  .honk-newfont {
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 15,
+      "SHLN" 50;
+  }
+
   --callout-rgb: 238, 240, 241;
   --callout-border-rgb: 172, 175, 176;
   --card-rgb: 180, 185, 188;

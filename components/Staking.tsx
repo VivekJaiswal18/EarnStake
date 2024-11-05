@@ -75,7 +75,7 @@ export const Staking = () => {
                     flexDirection: "row",
                     alignItems: "center",
                     justifyContent: "space-between",
-                    margin: "20px 0",
+                    margin: "20px 0 24px 24px",
                     width: "100%"
                 }}>
                     <h2 style={{ marginRight: "20px"}}>Claim NFT to Stake</h2>

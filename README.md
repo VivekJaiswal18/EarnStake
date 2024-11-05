@@ -2,4 +2,4 @@
 
 Stake an ERC-721 NFT and earn ERC-20 reward tokens.
 
-Contract Address - 0xEBdf3548D8496eC0b30F725615623fab997abCB7
+Contract Address - 0x435Cc0B499b7bC86DA693C28BD65F42a6F7f560A
