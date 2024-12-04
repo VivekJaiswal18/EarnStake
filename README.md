@@ -1,5 +1,5 @@
-# ERC-721 Staking App
+# EarnStake
 
 Stake an ERC-721 NFT and earn ERC-20 reward tokens.
 
-Contract Address - 0x435Cc0B499b7bC86DA693C28BD65F42a6F7f560A
+Contract Address - 0x1B1F77C544EfE22e2BA5E0b1a3512D41731F35B5
